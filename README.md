@@ -13,6 +13,9 @@ Este projeto foi desenvolvido como parte da conclusão do curso "Data Visualizat
 
 Trabalhamos com dados de imigração para o Canadá, utilizando as bibliotecas Matplotlib, Seaborn e Plotly para gerar gráficos analíticos, comparativos e uma animação interativa de tendências.
 
+![tendencia_imigracao_4paises_seaborn](https://github.com/user-attachments/assets/f098483d-fbf3-443c-adb4-655e70248236)
+
+
 ---
 
 ## 🚀 Habilidades Desenvolvidas
@@ -34,6 +37,7 @@ Ao clicar em ▶️ **Play**, você verá como os dados crescem ao longo do temp
 🔗 **[Abrir Animação Interativa - HTML](file:///G:/Meu%20Drive/mauro_projetos/DATA%20VISUALIZATION%20+%20PYTHON/data_visualization_canada/html/animacao_brasil_argentina.html)**
 
 > 💡 Caso deseje publicar online, hospede o arquivo `.html` via GitHub Pages, Netlify ou Vercel.
+"G:\Meu Drive\mauro_projetos\DATA VISUALIZATION + PYTHON\data_visualization_canada\html\grafico_interativo_paises.html"
 
 ---
 
