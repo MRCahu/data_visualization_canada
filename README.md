@@ -37,7 +37,8 @@ Ao clicar em ▶️ **Play**, você verá como os dados crescem ao longo do temp
 🔗 **[Abrir Animação Interativa - HTML](file:///G:/Meu%20Drive/mauro_projetos/DATA%20VISUALIZATION%20+%20PYTHON/data_visualization_canada/html/animacao_brasil_argentina.html)**
 
 > 💡 Caso deseje publicar online, hospede o arquivo `.html` via GitHub Pages, Netlify ou Vercel.
-"G:\Meu Drive\mauro_projetos\DATA VISUALIZATION + PYTHON\data_visualization_canada\html\grafico_interativo_paises.html"
+
+![image](https://github.com/user-attachments/assets/ef1c59b3-eb44-4151-9832-c9bfe862509b)
 
 ---
 
